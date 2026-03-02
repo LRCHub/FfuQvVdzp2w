@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "No more 煩悩!",
+  "base_artist": "FES☆TIVE",
+  "createdAt": "2026-03-02T14:52:26.770766Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hard Times Come Again No More",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/01_Hard_Times_Come_Again_No_More_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Can't Even Get The Blues No More",
+      "artist": "Reba McEntire",
+      "has_synced": false,
+      "path": "select/02_Can't_Even_Get_The_Blues_No_More_Reba_McEntire.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Can't Even Get The Blues No More (Album Version)",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/03_Can't_Even_Get_The_Blues_No_More_(Album_Version)_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "That Ain't Me No More",
+      "artist": "Matt Stell",
+      "has_synced": true,
+      "path": "select/04_That_Ain't_Me_No_More_Matt_Stell.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "That Ain't Me No More",
+      "artist": "Matt Stell",
+      "has_synced": true,
+      "path": "select/05_That_Ain't_Me_No_More_Matt_Stell.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No More Keeping My Feet On the Ground",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/06_No_More_Keeping_My_Feet_On_the_Ground_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "No More Sorrow",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/07_No_More_Sorrow_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "여우 같은 내 친구 (No More)",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/08_여우_같은_내_친구_(No_More)_f(x).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It Ain't Safe No More... (feat. Meka)",
+      "artist": "Busta Rhymes feat. Meka",
+      "has_synced": true,
+      "path": "select/09_It_Ain't_Safe_No_More..._(feat._Meka)_Busta_Rhymes_feat._Meka.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It Aint Safe No More Feat Meka",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/10_It_Aint_Safe_No_More_Feat_Meka_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No More",
+      "artist": "Guru",
+      "has_synced": true,
+      "path": "select/11_No_More_Guru.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "No More Pain",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/12_No_More_Pain_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "No More",
+      "artist": "Young Chop feat. YB & Lil Dave",
+      "has_synced": false,
+      "path": "select/13_No_More_Young_Chop_feat._YB_&_Lil_Dave.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "No More (feat. Yb & Lil Dave)",
+      "artist": "Young Chop",
+      "has_synced": false,
+      "path": "select/14_No_More_(feat._Yb_&_Lil_Dave)_Young_Chop.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Go No More A-Roving",
+      "artist": "Leonard Cohen feat. Sharon Robinson",
+      "has_synced": false,
+      "path": "select/15_Go_No_More_A-Roving_Leonard_Cohen_feat._Sharon_Robinson.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Don't Want to Walk Around Alone No More",
+      "artist": "The Lucksmiths",
+      "has_synced": false,
+      "path": "select/16_I_Don't_Want_to_Walk_Around_Alone_No_More_The_Lucksmiths.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "No More",
+      "artist": "Lil Yachty",
+      "has_synced": true,
+      "path": "select/17_No_More_Lil_Yachty.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No more 煩悩!",
+      "artist": "FES☆TIVE",
+      "has_synced": false,
+      "path": "select/pl_01_No_more_煩悩!_FES☆TIVE.txt"
+    }
+  ]
+}
